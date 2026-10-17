@@ -1,6 +1,6 @@
 # Security Accelerated
 
-Security tooling built in Go, run as a product rather than a demo.
+Domain and IP intelligence for security teams, delivered as a REST API.
 
 **[Intelligence API](https://github.com/Security-Accelerated/intelligence-api)** — domain
 and IP intelligence over REST: WHOIS, DNS, TLS, email security, reputation, threat
